@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinHitBoxEditor", "WinHitBoxEditor.csproj", "{D6CF1AB1-CF1D-4A03-B5F8-BDBCF8803BFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6CF1AB1-CF1D-4A03-B5F8-BDBCF8803BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6CF1AB1-CF1D-4A03-B5F8-BDBCF8803BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6CF1AB1-CF1D-4A03-B5F8-BDBCF8803BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6CF1AB1-CF1D-4A03-B5F8-BDBCF8803BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {238AD3C8-D6D2-4D39-A536-F361E292B37A}
+	EndGlobalSection
+EndGlobal
