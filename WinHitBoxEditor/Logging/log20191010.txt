@@ -2066,3 +2066,1423 @@
 2019-10-10 12:07:59.995 -04:00 [DBG] Selected Rectangle Index: 0
 2019-10-10 12:08:00.996 -04:00 [DBG] Selected Rectangle Index: 1
 2019-10-10 12:08:01.712 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:05.069 -04:00 [DBG] Not selected
+2019-10-10 12:46:06.149 -04:00 [DBG] Not selected
+2019-10-10 12:46:08.441 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.533 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.540 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.548 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.556 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.564 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.572 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.581 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.588 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.596 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.604 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.612 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.620 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.627 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.635 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.642 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.649 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.656 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.664 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.671 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.679 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.687 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.694 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.701 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.709 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.716 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.724 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.732 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.740 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.747 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.755 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.763 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.771 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.779 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.787 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.794 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.802 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.810 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.817 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.824 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.832 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.845 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.854 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.861 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.869 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.876 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.883 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.890 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.897 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.904 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.912 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.920 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.926 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.935 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.942 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.948 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.955 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.962 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.971 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:08.980 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:09.004 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:09.902 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:09.916 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:09.923 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:09.947 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:09.957 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:09.963 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:09.972 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:09.980 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:09.988 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:09.994 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.003 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.010 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.019 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.026 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.034 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.041 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.048 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.055 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.062 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.070 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.078 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.085 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.091 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.099 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.106 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.113 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.122 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.128 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.137 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.144 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.151 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.158 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.165 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.172 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.180 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.188 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.195 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.204 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.212 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.220 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.229 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.238 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.246 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.254 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.261 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.269 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.276 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.283 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.290 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.297 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.305 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.313 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.321 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.328 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.337 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.343 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.350 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.357 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.365 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.372 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.379 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.392 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.401 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.407 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.414 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.421 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.428 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.437 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.444 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.453 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.460 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.467 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.476 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.484 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.491 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.499 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.507 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.514 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.521 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.527 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.536 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.543 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.550 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.556 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.564 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.571 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.579 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.587 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.594 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.602 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.609 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.618 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.625 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.633 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.641 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.649 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.656 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.664 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.671 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.679 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.687 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.694 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.702 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.710 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.718 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.725 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.735 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.742 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.750 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.756 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.764 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.771 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.778 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.787 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.793 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.801 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:10.808 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:11.882 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:11.923 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:11.931 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:11.938 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:11.946 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:11.954 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:11.961 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:11.968 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:11.976 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:11.983 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:11.990 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:11.998 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:12.007 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:12.014 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:12.021 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:12.028 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:12.036 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:12.043 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:12.051 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:12.058 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:12.067 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:12.074 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:12.081 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:12.088 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:12.100 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:12.107 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:12.114 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:12.121 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:12.128 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:12.136 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:12.143 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:12.151 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:12.157 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:12.174 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:46:18.952 -04:00 [DBG] Not selected
+2019-10-10 12:46:24.014 -04:00 [DBG] Selected Rectangle Index: 2
+2019-10-10 12:46:24.120 -04:00 [DBG] Selected Rectangle Index: 2
+2019-10-10 12:46:24.152 -04:00 [DBG] Selected Rectangle Index: 2
+2019-10-10 12:46:24.183 -04:00 [DBG] Selected Rectangle Index: 2
+2019-10-10 12:46:24.214 -04:00 [DBG] Selected Rectangle Index: 2
+2019-10-10 12:46:24.246 -04:00 [DBG] Selected Rectangle Index: 2
+2019-10-10 12:46:24.278 -04:00 [DBG] Selected Rectangle Index: 2
+2019-10-10 12:46:24.311 -04:00 [DBG] Selected Rectangle Index: 2
+2019-10-10 12:46:24.343 -04:00 [DBG] Selected Rectangle Index: 2
+2019-10-10 12:46:24.376 -04:00 [DBG] Selected Rectangle Index: 2
+2019-10-10 12:46:24.408 -04:00 [DBG] Selected Rectangle Index: 2
+2019-10-10 12:46:24.439 -04:00 [DBG] Selected Rectangle Index: 2
+2019-10-10 12:46:24.470 -04:00 [DBG] Selected Rectangle Index: 2
+2019-10-10 12:46:24.501 -04:00 [DBG] Selected Rectangle Index: 2
+2019-10-10 12:46:24.532 -04:00 [DBG] Selected Rectangle Index: 2
+2019-10-10 12:46:24.575 -04:00 [DBG] Selected Rectangle Index: 2
+2019-10-10 12:46:24.628 -04:00 [DBG] Selected Rectangle Index: 2
+2019-10-10 12:46:24.662 -04:00 [DBG] Selected Rectangle Index: 2
+2019-10-10 12:46:24.694 -04:00 [DBG] Selected Rectangle Index: 2
+2019-10-10 12:46:24.728 -04:00 [DBG] Selected Rectangle Index: 2
+2019-10-10 12:46:24.764 -04:00 [DBG] Selected Rectangle Index: 2
+2019-10-10 12:46:24.795 -04:00 [DBG] Selected Rectangle Index: 2
+2019-10-10 12:46:24.828 -04:00 [DBG] Selected Rectangle Index: 2
+2019-10-10 12:46:24.861 -04:00 [DBG] Selected Rectangle Index: 2
+2019-10-10 12:46:26.808 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:27.309 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:27.450 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:27.492 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:27.524 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:27.558 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:27.591 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:27.622 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:27.654 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:46:27.684 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:26.855 -04:00 [DBG] Not selected
+2019-10-10 12:56:28.993 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:56:42.051 -04:00 [DBG] Not selected
+2019-10-10 12:56:45.421 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:49.808 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:49.953 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:49.960 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:49.967 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:49.975 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:49.982 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:49.989 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:49.997 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.005 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.013 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.022 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.029 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.037 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.045 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.053 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.060 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.068 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.076 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.084 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.091 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.099 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.106 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.114 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.122 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.129 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.137 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.145 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.152 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.159 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.167 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.174 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.181 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.189 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.195 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.204 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.211 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.219 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.226 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.234 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.241 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.248 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.256 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.263 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.272 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.280 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.289 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.296 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.306 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.315 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.324 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.332 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.339 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.347 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.355 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.362 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.370 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.378 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.385 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.392 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.399 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.407 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.415 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.422 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.429 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.437 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.445 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.452 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.460 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.467 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.475 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.482 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.491 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.502 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:56:50.516 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:04.728 -04:00 [DBG] Not selected
+2019-10-10 12:57:07.751 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:07.771 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:07.830 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:07.842 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:07.852 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:07.860 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:07.867 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:07.874 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:07.882 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:07.889 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:07.896 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:07.903 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:07.911 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:07.918 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:07.924 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:07.931 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:07.938 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:07.946 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:07.953 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:07.966 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:07.978 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:08.221 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:08.229 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:08.239 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:08.253 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:08.260 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:08.267 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:08.275 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:08.282 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:08.293 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:08.301 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:08.312 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:08.319 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:08.326 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:08.338 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:08.346 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:08.353 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:08.367 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:08.377 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:08.392 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:08.400 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:08.416 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:08.423 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:08.436 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:08.463 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 12:57:09.732 -04:00 [DBG] Not selected
+2019-10-10 12:57:12.108 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.164 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.176 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.184 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.192 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.199 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.207 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.214 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.222 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.229 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.237 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.245 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.253 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.260 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.268 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.276 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.283 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.291 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.304 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.311 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.330 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.337 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.345 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.356 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.364 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.372 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.379 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.387 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.394 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.401 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.410 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.420 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.427 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.435 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.442 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.450 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.457 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.466 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.473 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.482 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.490 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.498 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.506 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.513 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.521 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.528 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.537 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.544 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.552 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.559 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.567 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.575 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.583 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.591 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.598 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.605 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.613 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.625 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.633 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.640 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.648 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.657 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.664 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.673 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.682 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.690 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.699 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.707 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.715 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.723 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.731 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.739 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.747 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.755 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.762 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.770 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.777 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.784 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.791 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.800 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.817 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.825 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.833 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.841 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.849 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.856 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.864 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.872 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.880 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.889 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.896 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.905 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.913 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.922 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.929 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.937 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.944 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.952 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.959 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.966 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.974 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.982 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.989 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:12.997 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:13.004 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:13.012 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:13.020 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:13.027 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:13.035 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:13.042 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:13.050 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:13.075 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:13.102 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:13.110 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:13.131 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:13.138 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:13.147 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:13.160 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:13.169 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:13.184 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:13.218 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:13.230 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:13.255 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:13.281 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 12:57:13.309 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 14:19:43.944 -04:00 [DBG] Delta: 120
+2019-10-10 14:19:44.344 -04:00 [DBG] Delta: -120
+2019-10-10 14:19:44.407 -04:00 [DBG] Delta: -120
+2019-10-10 14:19:45.789 -04:00 [DBG] Delta: 120
+2019-10-10 14:19:46.113 -04:00 [DBG] Delta: 120
+2019-10-10 14:19:47.359 -04:00 [DBG] Delta: -120
+2019-10-10 14:19:47.398 -04:00 [DBG] Delta: -120
+2019-10-10 14:37:06.963 -04:00 [DBG] Not selected
+2019-10-10 14:37:07.153 -04:00 [DBG] Delta: 120
+2019-10-10 14:37:07.224 -04:00 [DBG] Delta: 120
+2019-10-10 14:37:07.503 -04:00 [DBG] Delta: 120
+2019-10-10 14:37:07.539 -04:00 [DBG] Delta: 120
+2019-10-10 14:37:12.088 -04:00 [DBG] Delta: 120
+2019-10-10 14:37:12.100 -04:00 [DBG] Delta: 120
+2019-10-10 14:37:12.574 -04:00 [DBG] Delta: 120
+2019-10-10 14:37:12.958 -04:00 [DBG] Delta: 120
+2019-10-10 14:37:12.975 -04:00 [DBG] Delta: 120
+2019-10-10 14:37:13.278 -04:00 [DBG] Delta: -120
+2019-10-10 14:37:13.479 -04:00 [DBG] Delta: 120
+2019-10-10 14:37:15.414 -04:00 [DBG] Delta: 120
+2019-10-10 14:37:15.428 -04:00 [DBG] Delta: 120
+2019-10-10 14:37:15.453 -04:00 [DBG] Delta: 120
+2019-10-10 14:37:15.503 -04:00 [DBG] Delta: 120
+2019-10-10 14:37:15.946 -04:00 [DBG] Delta: 120
+2019-10-10 14:37:15.960 -04:00 [DBG] Delta: 120
+2019-10-10 14:37:15.979 -04:00 [DBG] Delta: 120
+2019-10-10 14:37:16.009 -04:00 [DBG] Delta: 120
+2019-10-10 14:37:16.390 -04:00 [DBG] Delta: 120
+2019-10-10 14:37:16.403 -04:00 [DBG] Delta: 120
+2019-10-10 14:37:16.420 -04:00 [DBG] Delta: 120
+2019-10-10 14:37:16.442 -04:00 [DBG] Delta: 120
+2019-10-10 14:37:16.496 -04:00 [DBG] Delta: 120
+2019-10-10 14:37:16.946 -04:00 [DBG] Delta: 120
+2019-10-10 14:37:16.969 -04:00 [DBG] Delta: 120
+2019-10-10 14:38:38.630 -04:00 [DBG] Delta: 120
+2019-10-10 14:38:39.881 -04:00 [DBG] Delta: 120
+2019-10-10 14:38:39.922 -04:00 [DBG] Delta: 120
+2019-10-10 14:38:40.497 -04:00 [DBG] Delta: -120
+2019-10-10 14:38:40.520 -04:00 [DBG] Delta: -120
+2019-10-10 14:38:40.557 -04:00 [DBG] Delta: -120
+2019-10-10 14:38:42.078 -04:00 [DBG] Not selected
+2019-10-10 14:45:12.656 -04:00 [DBG] Delta: 120
+2019-10-10 14:45:13.152 -04:00 [DBG] Delta: 120
+2019-10-10 14:45:13.566 -04:00 [DBG] Delta: 120
+2019-10-10 14:45:14.023 -04:00 [DBG] Delta: 120
+2019-10-10 14:45:14.531 -04:00 [DBG] Not selected
+2019-10-10 14:45:15.474 -04:00 [DBG] Delta: -120
+2019-10-10 14:45:15.557 -04:00 [DBG] Delta: -120
+2019-10-10 14:45:54.973 -04:00 [DBG] Delta: 120
+2019-10-10 14:45:55.503 -04:00 [DBG] Delta: -120
+2019-10-10 14:45:55.881 -04:00 [DBG] Delta: 120
+2019-10-10 14:45:56.308 -04:00 [DBG] Not selected
+2019-10-10 14:45:56.702 -04:00 [DBG] Delta: 120
+2019-10-10 14:45:56.767 -04:00 [DBG] Delta: 120
+2019-10-10 14:45:57.283 -04:00 [DBG] Delta: 120
+2019-10-10 14:45:57.298 -04:00 [DBG] Delta: 120
+2019-10-10 14:45:57.344 -04:00 [DBG] Delta: 120
+2019-10-10 14:46:43.075 -04:00 [DBG] Delta: 120
+2019-10-10 14:46:43.669 -04:00 [DBG] Delta: -120
+2019-10-10 14:46:44.258 -04:00 [DBG] Delta: -120
+2019-10-10 14:46:44.709 -04:00 [DBG] Delta: -120
+2019-10-10 14:46:45.286 -04:00 [DBG] Delta: -120
+2019-10-10 14:46:45.559 -04:00 [DBG] Delta: -120
+2019-10-10 14:46:45.614 -04:00 [DBG] Delta: -120
+2019-10-10 14:46:46.000 -04:00 [DBG] Delta: -120
+2019-10-10 14:46:46.062 -04:00 [DBG] Delta: -240
+2019-10-10 14:46:46.579 -04:00 [DBG] Delta: -120
+2019-10-10 14:46:46.646 -04:00 [DBG] Delta: -120
+2019-10-10 14:46:47.268 -04:00 [DBG] Delta: 120
+2019-10-10 14:46:47.333 -04:00 [DBG] Delta: 120
+2019-10-10 14:46:47.729 -04:00 [DBG] Delta: 120
+2019-10-10 14:46:48.114 -04:00 [DBG] Delta: 120
+2019-10-10 14:46:48.461 -04:00 [DBG] Delta: 120
+2019-10-10 14:46:49.208 -04:00 [DBG] Delta: 120
+2019-10-10 14:46:49.755 -04:00 [DBG] Delta: 120
+2019-10-10 14:46:50.823 -04:00 [DBG] Delta: 120
+2019-10-10 14:46:51.259 -04:00 [DBG] Delta: 120
+2019-10-10 14:46:51.955 -04:00 [DBG] Delta: -120
+2019-10-10 14:46:52.412 -04:00 [DBG] Delta: -120
+2019-10-10 14:46:52.462 -04:00 [DBG] Delta: -120
+2019-10-10 14:46:52.513 -04:00 [DBG] Delta: -120
+2019-10-10 14:46:52.792 -04:00 [DBG] Delta: -120
+2019-10-10 14:46:53.358 -04:00 [DBG] Delta: -120
+2019-10-10 14:46:55.035 -04:00 [DBG] Delta: 120
+2019-10-10 14:46:55.858 -04:00 [DBG] Delta: 120
+2019-10-10 14:46:55.915 -04:00 [DBG] Delta: 120
+2019-10-10 14:46:56.301 -04:00 [DBG] Delta: 120
+2019-10-10 14:46:56.702 -04:00 [DBG] Delta: 120
+2019-10-10 14:46:57.144 -04:00 [DBG] Delta: 120
+2019-10-10 14:46:57.706 -04:00 [DBG] Delta: 120
+2019-10-10 14:46:58.119 -04:00 [DBG] Delta: 120
+2019-10-10 14:46:58.628 -04:00 [DBG] Delta: 120
+2019-10-10 14:46:59.843 -04:00 [DBG] Delta: -120
+2019-10-10 14:47:00.167 -04:00 [DBG] Delta: -120
+2019-10-10 14:47:00.217 -04:00 [DBG] Delta: -120
+2019-10-10 14:47:00.265 -04:00 [DBG] Delta: -120
+2019-10-10 14:47:00.314 -04:00 [DBG] Delta: -120
+2019-10-10 14:47:00.722 -04:00 [DBG] Delta: -120
+2019-10-10 14:47:00.818 -04:00 [DBG] Delta: -120
+2019-10-10 14:47:01.100 -04:00 [DBG] Delta: -120
+2019-10-10 14:47:01.171 -04:00 [DBG] Delta: -360
+2019-10-10 14:47:01.244 -04:00 [DBG] Delta: -120
+2019-10-10 14:47:01.785 -04:00 [DBG] Delta: -120
+2019-10-10 14:47:01.845 -04:00 [DBG] Delta: -120
+2019-10-10 14:47:02.262 -04:00 [DBG] Delta: -120
+2019-10-10 14:47:02.352 -04:00 [DBG] Delta: -120
+2019-10-10 14:47:02.903 -04:00 [DBG] Delta: 120
+2019-10-10 14:47:02.983 -04:00 [DBG] Delta: 120
+2019-10-10 14:47:03.367 -04:00 [DBG] Delta: 120
+2019-10-10 14:47:03.426 -04:00 [DBG] Delta: 120
+2019-10-10 14:47:03.492 -04:00 [DBG] Delta: 120
+2019-10-10 14:47:04.098 -04:00 [DBG] Delta: 120
+2019-10-10 14:47:04.173 -04:00 [DBG] Delta: 120
+2019-10-10 14:47:04.926 -04:00 [DBG] Delta: 120
+2019-10-10 14:47:05.627 -04:00 [DBG] Not selected
+2019-10-10 14:47:06.506 -04:00 [DBG] Delta: 120
+2019-10-10 14:52:10.502 -04:00 [DBG] Not selected
+2019-10-10 14:52:14.591 -04:00 [DBG] Delta: 120
+2019-10-10 14:52:16.347 -04:00 [DBG] Not selected
+2019-10-10 14:52:18.012 -04:00 [DBG] Delta: 120
+2019-10-10 14:52:19.253 -04:00 [DBG] Delta: -120
+2019-10-10 14:52:19.759 -04:00 [DBG] Delta: -120
+2019-10-10 14:52:19.813 -04:00 [DBG] Delta: -120
+2019-10-10 14:52:20.294 -04:00 [DBG] Delta: -120
+2019-10-10 14:52:20.347 -04:00 [DBG] Delta: -120
+2019-10-10 14:52:20.747 -04:00 [DBG] Delta: -120
+2019-10-10 14:52:20.799 -04:00 [DBG] Delta: -120
+2019-10-10 14:52:20.893 -04:00 [DBG] Delta: -120
+2019-10-10 14:52:21.249 -04:00 [DBG] Delta: -120
+2019-10-10 14:52:21.323 -04:00 [DBG] Delta: -120
+2019-10-10 14:52:21.390 -04:00 [DBG] Delta: -120
+2019-10-10 14:52:22.475 -04:00 [DBG] Delta: 120
+2019-10-10 14:52:23.111 -04:00 [DBG] Delta: 120
+2019-10-10 14:52:57.041 -04:00 [DBG] Delta: 120
+2019-10-10 14:52:57.920 -04:00 [DBG] Delta: 120
+2019-10-10 14:52:58.356 -04:00 [DBG] Delta: 120
+2019-10-10 14:52:58.376 -04:00 [DBG] Delta: 120
+2019-10-10 14:52:58.748 -04:00 [DBG] Delta: -120
+2019-10-10 14:52:58.768 -04:00 [DBG] Delta: -120
+2019-10-10 14:52:58.788 -04:00 [DBG] Delta: -120
+2019-10-10 14:52:59.136 -04:00 [DBG] Delta: -120
+2019-10-10 14:52:59.236 -04:00 [DBG] Delta: -120
+2019-10-10 14:52:59.510 -04:00 [DBG] Delta: -120
+2019-10-10 14:52:59.535 -04:00 [DBG] Delta: -120
+2019-10-10 14:52:59.565 -04:00 [DBG] Delta: -120
+2019-10-10 14:52:59.957 -04:00 [DBG] Delta: -120
+2019-10-10 14:52:59.978 -04:00 [DBG] Delta: -120
+2019-10-10 14:52:59.997 -04:00 [DBG] Delta: -120
+2019-10-10 14:53:00.565 -04:00 [DBG] Delta: 120
+2019-10-10 14:53:01.419 -04:00 [DBG] Delta: 120
+2019-10-10 14:53:01.938 -04:00 [DBG] Delta: 120
+2019-10-10 14:53:02.041 -04:00 [DBG] Delta: 120
+2019-10-10 14:53:02.459 -04:00 [DBG] Delta: 120
+2019-10-10 14:53:02.866 -04:00 [DBG] Delta: 120
+2019-10-10 14:53:03.581 -04:00 [DBG] Delta: 120
+2019-10-10 14:53:05.063 -04:00 [DBG] Delta: -120
+2019-10-10 14:53:05.730 -04:00 [DBG] Delta: -120
+2019-10-10 14:53:06.192 -04:00 [DBG] Delta: -120
+2019-10-10 14:53:07.252 -04:00 [DBG] Delta: -120
+2019-10-10 14:53:07.843 -04:00 [DBG] Delta: 120
+2019-10-10 14:53:08.562 -04:00 [DBG] Delta: 120
+2019-10-10 14:53:08.941 -04:00 [DBG] Delta: 120
+2019-10-10 14:53:22.870 -04:00 [DBG] Delta: 120
+2019-10-10 14:53:23.311 -04:00 [DBG] Delta: 120
+2019-10-10 14:53:23.821 -04:00 [DBG] Delta: -120
+2019-10-10 14:53:23.846 -04:00 [DBG] Delta: -120
+2019-10-10 14:53:23.878 -04:00 [DBG] Delta: -120
+2019-10-10 14:53:24.281 -04:00 [DBG] Delta: -120
+2019-10-10 14:53:24.304 -04:00 [DBG] Delta: -120
+2019-10-10 14:53:24.771 -04:00 [DBG] Delta: -120
+2019-10-10 14:53:24.818 -04:00 [DBG] Delta: -120
+2019-10-10 14:53:25.497 -04:00 [DBG] Delta: 120
+2019-10-10 14:53:25.906 -04:00 [DBG] Delta: 120
+2019-10-10 14:53:26.280 -04:00 [DBG] Delta: 120
+2019-10-10 14:53:26.635 -04:00 [DBG] Delta: 120
+2019-10-10 14:53:27.082 -04:00 [DBG] Delta: 120
+2019-10-10 14:53:27.888 -04:00 [DBG] Delta: -120
+2019-10-10 14:53:27.962 -04:00 [DBG] Delta: -120
+2019-10-10 14:53:28.526 -04:00 [DBG] Delta: -120
+2019-10-10 14:53:28.563 -04:00 [DBG] Delta: -120
+2019-10-10 14:54:06.574 -04:00 [DBG] Delta: 120
+2019-10-10 14:54:07.474 -04:00 [DBG] Delta: -120
+2019-10-10 14:54:07.839 -04:00 [DBG] Delta: -120
+2019-10-10 14:54:08.357 -04:00 [DBG] Delta: -120
+2019-10-10 14:54:08.437 -04:00 [DBG] Delta: -120
+2019-10-10 14:54:08.947 -04:00 [DBG] Delta: -120
+2019-10-10 14:54:09.016 -04:00 [DBG] Delta: -120
+2019-10-10 14:54:09.641 -04:00 [DBG] Delta: -120
+2019-10-10 14:54:10.154 -04:00 [DBG] Delta: 120
+2019-10-10 14:54:10.702 -04:00 [DBG] Delta: 120
+2019-10-10 14:54:11.157 -04:00 [DBG] Delta: 120
+2019-10-10 14:54:11.186 -04:00 [DBG] Delta: 120
+2019-10-10 14:56:30.068 -04:00 [DBG] Delta: 120
+2019-10-10 14:56:30.114 -04:00 [DBG] Delta: 120
+2019-10-10 14:56:30.707 -04:00 [DBG] Delta: -120
+2019-10-10 14:56:31.032 -04:00 [DBG] Delta: -120
+2019-10-10 14:56:31.179 -04:00 [DBG] Delta: -120
+2019-10-10 14:56:31.422 -04:00 [DBG] Delta: -120
+2019-10-10 14:56:31.470 -04:00 [DBG] Delta: -120
+2019-10-10 14:56:31.520 -04:00 [DBG] Delta: -120
+2019-10-10 14:56:31.822 -04:00 [DBG] Delta: -120
+2019-10-10 14:56:31.893 -04:00 [DBG] Delta: -120
+2019-10-10 14:56:32.178 -04:00 [DBG] Delta: -120
+2019-10-10 14:56:32.377 -04:00 [DBG] Delta: -120
+2019-10-10 14:56:32.973 -04:00 [DBG] Delta: 120
+2019-10-10 14:56:33.390 -04:00 [DBG] Delta: 120
+2019-10-10 14:56:33.823 -04:00 [DBG] Delta: 120
+2019-10-10 14:56:34.184 -04:00 [DBG] Delta: 120
+2019-10-10 14:56:34.609 -04:00 [DBG] Delta: 120
+2019-10-10 14:56:34.661 -04:00 [DBG] Delta: 120
+2019-10-10 14:56:35.093 -04:00 [DBG] Delta: 120
+2019-10-10 14:56:35.177 -04:00 [DBG] Delta: 120
+2019-10-10 14:56:35.985 -04:00 [DBG] Delta: 120
+2019-10-10 14:57:07.673 -04:00 [DBG] Delta: 120
+2019-10-10 14:57:08.881 -04:00 [DBG] Delta: -120
+2019-10-10 14:57:09.254 -04:00 [DBG] Delta: -120
+2019-10-10 14:57:09.330 -04:00 [DBG] Delta: -120
+2019-10-10 14:57:09.710 -04:00 [DBG] Delta: -120
+2019-10-10 14:57:09.738 -04:00 [DBG] Delta: -120
+2019-10-10 14:57:09.764 -04:00 [DBG] Delta: -120
+2019-10-10 14:57:09.784 -04:00 [DBG] Delta: -120
+2019-10-10 14:57:09.818 -04:00 [DBG] Delta: -120
+2019-10-10 14:57:10.177 -04:00 [DBG] Delta: 120
+2019-10-10 14:57:10.198 -04:00 [DBG] Delta: 120
+2019-10-10 14:57:10.230 -04:00 [DBG] Delta: 120
+2019-10-10 14:57:10.318 -04:00 [DBG] Delta: 120
+2019-10-10 14:57:10.816 -04:00 [DBG] Delta: 120
+2019-10-10 14:57:10.836 -04:00 [DBG] Delta: 120
+2019-10-10 14:57:10.922 -04:00 [DBG] Delta: 120
+2019-10-10 14:57:28.844 -04:00 [DBG] Delta: 120
+2019-10-10 14:57:29.364 -04:00 [DBG] Delta: 120
+2019-10-10 14:57:29.876 -04:00 [DBG] Delta: -120
+2019-10-10 14:57:30.271 -04:00 [DBG] Delta: -120
+2019-10-10 14:57:30.309 -04:00 [DBG] Delta: -120
+2019-10-10 14:57:30.350 -04:00 [DBG] Delta: -120
+2019-10-10 14:57:30.726 -04:00 [DBG] Delta: -120
+2019-10-10 14:57:30.766 -04:00 [DBG] Delta: -120
+2019-10-10 14:57:30.798 -04:00 [DBG] Delta: -120
+2019-10-10 14:57:31.178 -04:00 [DBG] Delta: -120
+2019-10-10 14:57:31.216 -04:00 [DBG] Delta: -120
+2019-10-10 14:57:31.258 -04:00 [DBG] Delta: -120
+2019-10-10 14:57:31.846 -04:00 [DBG] Delta: 120
+2019-10-10 14:57:31.861 -04:00 [DBG] Delta: 120
+2019-10-10 14:57:32.302 -04:00 [DBG] Delta: 120
+2019-10-10 14:57:32.793 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:20.254 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:21.313 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:21.667 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:21.733 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:22.141 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:22.178 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:22.625 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:22.905 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:23.642 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:23.688 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:24.109 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:24.146 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:24.644 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:24.685 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:25.155 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:25.226 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:25.723 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:26.108 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:26.575 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:26.910 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:26.978 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:27.373 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:27.401 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:27.427 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:27.466 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:27.929 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:27.973 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:28.338 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:28.405 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:28.829 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:28.855 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:28.872 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:28.900 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:29.189 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:29.200 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:29.211 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:29.230 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:29.552 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:29.565 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:29.582 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:29.605 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:29.694 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:29.988 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:30.014 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:30.044 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:30.549 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:30.946 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:31.622 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:32.063 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:32.158 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:32.183 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:32.274 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:32.600 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:32.615 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:32.658 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:32.975 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:32.991 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:49.026 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:49.169 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:49.690 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:49.925 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:49.996 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:50.401 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:50.439 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:50.475 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:50.542 -04:00 [DBG] Delta: -120
+2019-10-10 14:58:51.039 -04:00 [DBG] Not selected
+2019-10-10 14:58:51.262 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:51.765 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:52.290 -04:00 [DBG] Delta: 120
+2019-10-10 14:58:53.745 -04:00 [DBG] Not selected
+2019-10-10 15:01:13.655 -04:00 [DBG] Not selected
+2019-10-10 15:01:16.174 -04:00 [DBG] Not selected
+2019-10-10 15:01:17.649 -04:00 [DBG] Not selected
+2019-10-10 15:01:17.713 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.722 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.729 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.738 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.745 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.754 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.762 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.770 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.779 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.788 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.797 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.806 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.815 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.824 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.832 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.840 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.848 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.856 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.865 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.873 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.882 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.891 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.898 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.906 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.914 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.923 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.931 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.940 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.948 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.956 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.964 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.973 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.982 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.990 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:17.998 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.008 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.017 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.025 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.034 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.072 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.083 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.091 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.099 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.107 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.115 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.124 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.132 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.140 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.148 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.157 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.165 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.173 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.182 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.192 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.200 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.209 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.217 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.225 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.232 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.240 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.248 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.256 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.266 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.274 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.283 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.291 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.299 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.307 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.316 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.324 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.332 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.341 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.348 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.356 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.365 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.373 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.382 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.392 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.400 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.410 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.418 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.426 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.434 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.443 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.450 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.458 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.466 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.474 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.482 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.490 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.505 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.514 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.523 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.531 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.539 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.546 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.554 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.562 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.570 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.577 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.586 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.594 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.603 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.612 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.620 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.630 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.637 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.647 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.654 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.663 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.670 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.678 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.686 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.694 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.701 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.710 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.717 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.725 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.733 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.741 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.748 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.756 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.766 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.774 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.782 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.791 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.800 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.808 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.816 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.825 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.832 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.840 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.847 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.855 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.863 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.871 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.878 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.886 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.894 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.902 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.910 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:18.919 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:20.128 -04:00 [DBG] Not selected
+2019-10-10 15:01:22.117 -04:00 [DBG] Not selected
+2019-10-10 15:01:22.134 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.150 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.159 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.167 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.175 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.183 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.192 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.200 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.209 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.217 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.225 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.234 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.242 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.251 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.260 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.270 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.279 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.288 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.296 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.305 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.313 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.321 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.329 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.338 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.346 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.355 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.368 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.377 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.385 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.394 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.402 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.411 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.418 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.427 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.435 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.443 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.452 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.461 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.470 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.479 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.487 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.496 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.504 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.512 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.521 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.529 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.537 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.546 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.554 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.562 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.570 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.578 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.587 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.595 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.603 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.611 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.619 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.628 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.636 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.644 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.653 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.662 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.671 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.680 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.689 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.699 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.707 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.715 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.723 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.732 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.740 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.749 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.757 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.765 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.774 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.782 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.790 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.799 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.807 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.816 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.824 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.832 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.840 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.849 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:22.857 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:01:23.443 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:23.464 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.112 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.131 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.170 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.183 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.193 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.206 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.216 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.225 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.233 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.241 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.249 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.258 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.266 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.275 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.283 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.292 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.301 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.310 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.318 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.327 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.335 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.344 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.352 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.360 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.368 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.377 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.385 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.393 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.401 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.410 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.417 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.426 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.434 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.443 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.450 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.459 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.467 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.475 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.483 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.492 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.501 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.509 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.518 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.527 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.535 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.544 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.552 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.560 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.568 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.576 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.584 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.592 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.600 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.609 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.617 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.625 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.633 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.642 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.650 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.658 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.666 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.674 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.683 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.693 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.701 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.711 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.719 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.727 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.735 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.743 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.751 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.764 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.772 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.781 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.789 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.799 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.807 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.815 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.823 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.832 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.840 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.848 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.856 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.865 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.873 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.882 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.891 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.900 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.909 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.918 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.926 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.934 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.943 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.951 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.959 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.967 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.975 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.984 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:24.991 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.000 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.008 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.016 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.025 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.034 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.042 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.050 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.059 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.067 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.075 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.084 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.093 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.102 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.111 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.119 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.128 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.137 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.146 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.154 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.162 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.171 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.179 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.188 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.196 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.204 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.213 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.221 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.229 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.238 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.246 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.255 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.263 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.272 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.280 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.289 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.300 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.309 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.321 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.330 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.338 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.347 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.355 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.365 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:01:25.373 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:04:56.182 -04:00 [DBG] Delta: 120
+2019-10-10 15:04:56.767 -04:00 [DBG] Delta: -120
+2019-10-10 15:04:57.233 -04:00 [DBG] Delta: -120
+2019-10-10 15:04:57.935 -04:00 [DBG] Delta: -120
+2019-10-10 15:04:58.662 -04:00 [DBG] Delta: 120
+2019-10-10 15:04:58.726 -04:00 [DBG] Delta: 120
+2019-10-10 15:04:59.382 -04:00 [DBG] Delta: 120
+2019-10-10 15:04:59.537 -04:00 [DBG] Delta: 120
+2019-10-10 15:04:59.938 -04:00 [DBG] Delta: -120
+2019-10-10 15:04:59.979 -04:00 [DBG] Delta: -120
+2019-10-10 15:05:00.351 -04:00 [DBG] Not selected
+2019-10-10 15:05:01.405 -04:00 [DBG] Not selected
+2019-10-10 15:08:32.638 -04:00 [DBG] Delta: 120
+2019-10-10 15:08:33.191 -04:00 [DBG] Not selected
+2019-10-10 15:08:34.526 -04:00 [DBG] Not selected
+2019-10-10 15:08:36.635 -04:00 [DBG] Not selected
+2019-10-10 15:08:39.825 -04:00 [DBG] Delta: -120
+2019-10-10 15:08:40.405 -04:00 [DBG] Delta: -120
+2019-10-10 15:08:40.908 -04:00 [DBG] Delta: -120
+2019-10-10 15:08:40.946 -04:00 [DBG] Delta: -120
+2019-10-10 15:08:41.406 -04:00 [DBG] Delta: -120
+2019-10-10 15:08:41.441 -04:00 [DBG] Delta: -120
+2019-10-10 15:08:41.477 -04:00 [DBG] Delta: -120
+2019-10-10 15:08:41.538 -04:00 [DBG] Delta: -120
+2019-10-10 15:08:42.253 -04:00 [DBG] Delta: 120
+2019-10-10 15:08:42.715 -04:00 [DBG] Delta: 120
+2019-10-10 15:08:43.274 -04:00 [DBG] Not selected
+2019-10-10 15:08:45.375 -04:00 [DBG] Delta: 120
+2019-10-10 15:08:45.427 -04:00 [DBG] Delta: 120
+2019-10-10 15:08:46.701 -04:00 [DBG] Not selected
+2019-10-10 15:08:49.106 -04:00 [DBG] Not selected
+2019-10-10 15:08:50.281 -04:00 [DBG] Delta: 120
+2019-10-10 15:08:50.364 -04:00 [DBG] Delta: 120
+2019-10-10 15:08:50.809 -04:00 [DBG] Delta: 120
+2019-10-10 15:08:51.382 -04:00 [DBG] Not selected
+2019-10-10 15:10:30.531 -04:00 [DBG] Delta: 120
+2019-10-10 15:10:31.399 -04:00 [DBG] Delta: 120
+2019-10-10 15:10:31.810 -04:00 [DBG] Delta: -120
+2019-10-10 15:10:31.854 -04:00 [DBG] Delta: -120
+2019-10-10 15:10:32.259 -04:00 [DBG] Delta: -120
+2019-10-10 15:10:32.297 -04:00 [DBG] Delta: -120
+2019-10-10 15:10:32.649 -04:00 [DBG] Delta: -120
+2019-10-10 15:10:32.672 -04:00 [DBG] Delta: -120
+2019-10-10 15:10:32.697 -04:00 [DBG] Delta: -120
+2019-10-10 15:10:32.715 -04:00 [DBG] Delta: -120
+2019-10-10 15:10:33.239 -04:00 [DBG] Delta: -120
+2019-10-10 15:10:33.764 -04:00 [DBG] Delta: 120
+2019-10-10 15:10:33.786 -04:00 [DBG] Delta: 120
+2019-10-10 15:10:34.176 -04:00 [DBG] Delta: 120
+2019-10-10 15:10:34.596 -04:00 [DBG] Delta: 120
+2019-10-10 15:10:34.633 -04:00 [DBG] Delta: 120
+2019-10-10 15:10:35.047 -04:00 [DBG] Delta: 120
+2019-10-10 15:10:35.089 -04:00 [DBG] Delta: 120
+2019-10-10 15:10:35.560 -04:00 [DBG] Delta: 120
+2019-10-10 15:11:23.858 -04:00 [DBG] Delta: 120
+2019-10-10 15:11:24.377 -04:00 [DBG] Delta: 120
+2019-10-10 15:11:24.724 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:24.778 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:25.201 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:25.573 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:25.668 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:26.094 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:26.404 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:26.962 -04:00 [DBG] Not selected
+2019-10-10 15:11:27.863 -04:00 [DBG] Not selected
+2019-10-10 15:11:28.584 -04:00 [DBG] Delta: 120
+2019-10-10 15:11:29.478 -04:00 [DBG] Delta: 120
+2019-10-10 15:11:29.518 -04:00 [DBG] Delta: 120
+2019-10-10 15:11:29.974 -04:00 [DBG] Delta: 120
+2019-10-10 15:11:29.999 -04:00 [DBG] Delta: 120
+2019-10-10 15:11:30.106 -04:00 [DBG] Delta: 120
+2019-10-10 15:11:30.609 -04:00 [DBG] Not selected
+2019-10-10 15:11:31.323 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:31.779 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:33.157 -04:00 [DBG] Not selected
+2019-10-10 15:11:34.639 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:35.112 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:35.552 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:35.983 -04:00 [DBG] Not selected
+2019-10-10 15:11:37.708 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:38.051 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:38.579 -04:00 [DBG] Delta: 120
+2019-10-10 15:11:38.595 -04:00 [DBG] Delta: 120
+2019-10-10 15:11:38.621 -04:00 [DBG] Delta: 120
+2019-10-10 15:11:38.666 -04:00 [DBG] Delta: 120
+2019-10-10 15:11:39.055 -04:00 [DBG] Delta: 120
+2019-10-10 15:11:39.077 -04:00 [DBG] Delta: 120
+2019-10-10 15:11:39.100 -04:00 [DBG] Delta: 120
+2019-10-10 15:11:39.160 -04:00 [DBG] Delta: 120
+2019-10-10 15:11:39.551 -04:00 [DBG] Delta: 120
+2019-10-10 15:11:39.575 -04:00 [DBG] Delta: 120
+2019-10-10 15:11:40.011 -04:00 [DBG] Not selected
+2019-10-10 15:11:41.395 -04:00 [DBG] Not selected
+2019-10-10 15:11:44.823 -04:00 [DBG] Delta: 120
+2019-10-10 15:11:45.637 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:45.670 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:46.141 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:46.194 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:46.555 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:46.903 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:47.314 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:47.348 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:47.390 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:48.102 -04:00 [DBG] Not selected
+2019-10-10 15:11:50.250 -04:00 [DBG] Delta: 120
+2019-10-10 15:11:51.079 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:51.658 -04:00 [DBG] Delta: 120
+2019-10-10 15:11:51.728 -04:00 [DBG] Delta: 120
+2019-10-10 15:11:52.142 -04:00 [DBG] Delta: 120
+2019-10-10 15:11:52.162 -04:00 [DBG] Delta: 120
+2019-10-10 15:11:52.219 -04:00 [DBG] Delta: 120
+2019-10-10 15:11:52.508 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:52.535 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:52.559 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:52.582 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:52.602 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:52.887 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:52.912 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:52.932 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:52.949 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:52.988 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:53.240 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:53.255 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:53.267 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:53.278 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:53.290 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:53.305 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:53.603 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:53.618 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:53.630 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:53.640 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:53.650 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:53.661 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:53.676 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:53.961 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:53.975 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:53.985 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:53.994 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:54.003 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:54.012 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:54.021 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:54.042 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:54.297 -04:00 [DBG] Not selected
+2019-10-10 15:11:54.568 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:54.585 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:54.595 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:54.604 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:54.612 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:54.620 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:54.629 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:54.640 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:54.979 -04:00 [DBG] Not selected
+2019-10-10 15:11:56.662 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:56.710 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:56.750 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:57.412 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:57.433 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:57.447 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:57.463 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:57.485 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:57.803 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:57.818 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:57.830 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:57.841 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:57.851 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:57.861 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:57.874 -04:00 [DBG] Delta: -120
+2019-10-10 15:11:57.934 -04:00 [DBG] Delta: -120
+2019-10-10 15:15:03.871 -04:00 [DBG] Not selected
+2019-10-10 15:15:05.347 -04:00 [DBG] Not selected
+2019-10-10 15:15:08.733 -04:00 [DBG] Not selected
+2019-10-10 15:15:10.525 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:15:12.556 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:15:12.726 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:15:12.757 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:15:12.791 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:15:12.826 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:15:12.858 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:15:12.891 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:15:12.927 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:15:12.958 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:15:12.991 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:15:13.025 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:15:13.058 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:15:13.094 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:15:13.126 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:15:13.158 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:15:13.192 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:15:13.225 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:15:13.259 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:15:13.293 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:15:13.324 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:15:13.360 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:15:13.391 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:15:13.423 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:15:13.461 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:15:13.496 -04:00 [DBG] Selected Rectangle Index: 0
+2019-10-10 15:15:14.571 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:15:14.610 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:15:14.734 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:15:14.766 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:15:14.799 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:15:14.831 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:15:14.862 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:15:14.898 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:15:14.931 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:15:14.962 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:15:14.994 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:15:15.026 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:15:15.058 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:15:15.091 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:15:15.124 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:15:15.158 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:15:15.191 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:15:15.229 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:15:15.265 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:15:15.297 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:15:15.329 -04:00 [DBG] Selected Rectangle Index: 1
+2019-10-10 15:15:15.682 -04:00 [DBG] Not selected
+2019-10-10 15:15:18.413 -04:00 [DBG] Delta: 120
+2019-10-10 15:15:19.280 -04:00 [DBG] Delta: -120
+2019-10-10 15:15:19.453 -04:00 [DBG] Delta: -120
+2019-10-10 15:15:19.886 -04:00 [DBG] Delta: -120
+2019-10-10 15:15:19.917 -04:00 [DBG] Delta: -120
+2019-10-10 15:15:19.954 -04:00 [DBG] Delta: -120
+2019-10-10 15:15:20.352 -04:00 [DBG] Delta: -120
+2019-10-10 15:15:20.383 -04:00 [DBG] Delta: -240
+2019-10-10 15:15:21.253 -04:00 [DBG] Delta: -120

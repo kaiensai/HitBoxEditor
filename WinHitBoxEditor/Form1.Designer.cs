@@ -35,6 +35,8 @@
             this.rectangleButton = new System.Windows.Forms.Button();
             this.exportButton = new System.Windows.Forms.Button();
             this.openButton = new System.Windows.Forms.Button();
+            this.RectangleLabel = new System.Windows.Forms.Label();
+            this.resizeButton = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.imagePane)).BeginInit();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
@@ -48,12 +50,15 @@
             this.imagePane.TabIndex = 0;
             this.imagePane.TabStop = false;
             this.imagePane.MouseDown += new System.Windows.Forms.MouseEventHandler(this.imagePane_MouseDown);
+            this.imagePane.MouseHover += new System.EventHandler(this.imagePane_MouseHover);
             this.imagePane.MouseMove += new System.Windows.Forms.MouseEventHandler(this.imagePane_MouseMove);
             this.imagePane.MouseUp += new System.Windows.Forms.MouseEventHandler(this.imagePane_MouseUp);
             // 
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.panel1.Controls.Add(this.resizeButton);
+            this.panel1.Controls.Add(this.RectangleLabel);
             this.panel1.Controls.Add(this.moveButton);
             this.panel1.Controls.Add(this.selectButton);
             this.panel1.Controls.Add(this.rectangleButton);
@@ -92,7 +97,7 @@
             // 
             this.rectangleButton.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.rectangleButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rectangleButton.Location = new System.Drawing.Point(333, 3);
+            this.rectangleButton.Location = new System.Drawing.Point(416, 3);
             this.rectangleButton.Name = "rectangleButton";
             this.rectangleButton.Size = new System.Drawing.Size(89, 32);
             this.rectangleButton.TabIndex = 2;
@@ -123,6 +128,28 @@
             this.openButton.UseVisualStyleBackColor = false;
             this.openButton.Click += new System.EventHandler(this.openButton_Click);
             // 
+            // RectangleLabel
+            // 
+            this.RectangleLabel.AutoSize = true;
+            this.RectangleLabel.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.RectangleLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.RectangleLabel.Location = new System.Drawing.Point(511, 13);
+            this.RectangleLabel.Name = "RectangleLabel";
+            this.RectangleLabel.Size = new System.Drawing.Size(202, 13);
+            this.RectangleLabel.TabIndex = 5;
+            this.RectangleLabel.Text = "Rectangle: X: 0 Y: 0 Width: 0 Height: 0";
+            // 
+            // resizeButton
+            // 
+            this.resizeButton.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.resizeButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.resizeButton.Location = new System.Drawing.Point(333, 3);
+            this.resizeButton.Name = "resizeButton";
+            this.resizeButton.Size = new System.Drawing.Size(84, 32);
+            this.resizeButton.TabIndex = 6;
+            this.resizeButton.Text = "Resize";
+            this.resizeButton.UseVisualStyleBackColor = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -138,6 +165,7 @@
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.imagePane)).EndInit();
             this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -151,6 +179,8 @@
         private System.Windows.Forms.Button rectangleButton;
         private System.Windows.Forms.Button moveButton;
         private System.Windows.Forms.Button selectButton;
+        private System.Windows.Forms.Label RectangleLabel;
+        private System.Windows.Forms.Button resizeButton;
     }
 }
 

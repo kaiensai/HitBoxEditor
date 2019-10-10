@@ -17,8 +17,10 @@ namespace WinHitBoxEditor
         public Item CurrentItem;
         public Color PaintColor;
         public SolidBrush semiTransparentBrush;
-        public List<Rectangle> rectangles;
+        public List<RectangleF> rectangles;
 
+        public float ImageHeight { get; set; }
+        public float ImageWidth { get; set; }
         public bool CanImageFit { get; set; }
         public bool IsDown { get; set; }
         public bool IsSelected { get; set; }
@@ -32,16 +34,58 @@ namespace WinHitBoxEditor
         {
 
             InitializeComponent();
-            rectangles = new List<Rectangle>();
+            rectangles = new List<RectangleF>();
             PaintColor = Color.FromArgb(128, 10, 10, 100);
             semiTransparentBrush = new SolidBrush(PaintColor);
+            imagePane.MouseWheel += ImagePane_MouseWheel;
+
+        //--------------Logger--------------------------//
             Log.Logger = new LoggerConfiguration().
                 MinimumLevel.Debug().
                 WriteTo.Console()
                 .WriteTo.File(@"F:\\C# Stuff\\HitBoxWinformRepo\\HitBoxEditor\\WinHitBoxEditor\\Logging\\log.txt", rollingInterval: RollingInterval.Day)
                 .CreateLogger();
+        //--------------Logger--------------------------//
 
 
+        }
+
+        private void ImagePane_MouseWheel(object sender, MouseEventArgs e)
+        {
+            Log.Debug("Delta: " + e.Delta);
+
+            Graphics graphics = imagePane.CreateGraphics();
+            if(e.Delta > 0 && imagePane.Image != null)
+            {
+                Scale(graphics, 1.3f);
+            }
+            else
+            {
+                Scale(graphics, .75f);
+            }
+            graphics.Dispose();
+        }
+
+        private void Scale(Graphics graphics, float scale)
+        {
+            graphics.Clear(imagePane.BackColor);
+            //graphics.DrawImage(imagePane.Image, new Point(0, 0));
+            RectangleF destinationRect = new RectangleF(
+                0,
+                0,
+               ImageWidth,
+                ImageHeight);
+            RectangleF sourceRect = new RectangleF(0, 0,
+                    scale *imagePane.Image.Width,
+                    scale * imagePane.Image.Height);
+            graphics.DrawImage(
+                imagePane.Image,
+                destinationRect,
+                sourceRect,
+                GraphicsUnit.Pixel);
+
+            ImageWidth *= scale;
+            ImageHeight *= scale;
         }
 
         public enum Item
@@ -62,6 +106,9 @@ namespace WinHitBoxEditor
             if (openFile.ShowDialog() == DialogResult.OK)
             {
                 imagePane.Image = new Bitmap(openFile.FileName);
+                ImageWidth = imagePane.Image.Width;
+                ImageHeight = imagePane.Image.Height;
+
                 CanImageFit = (imagePane.Image.Width < imagePane.Width && imagePane.Image.Height < imagePane.Height);
                 if (CanImageFit)
                     imagePane.SizeMode = PictureBoxSizeMode.CenterImage;
@@ -98,7 +145,11 @@ namespace WinHitBoxEditor
 
                     SelectedRectangle = i;
                     Log.Debug("Selected Rectangle Index: " + SelectedRectangle);
-
+                    RectangleLabel.Text = "Rectangle: X: " +
+                        rectangles[SelectedRectangle].X +
+                        " Y: " + rectangles[SelectedRectangle].Y +
+                        " Width: " + rectangles[SelectedRectangle].Width
+                        + " Height: " + rectangles[SelectedRectangle].Height;
                     IsSelected = true;
                     count++;
 
@@ -138,15 +189,26 @@ namespace WinHitBoxEditor
 
                         break;
                     case Item.Move:
-                        var newRect = rectangles[SelectedRectangle];
-                        newRect.X = e.X;
-                        newRect.Y = e.Y;
-                        rectangles[SelectedRectangle] = newRect;
-                        this.Refresh();//RefreshCanvas(graphics);
-                        Log.Debug("Selected Rectangle Index: " + SelectedRectangle);
-                        foreach (var rectangle in rectangles)
+                        if (IsSelected)
                         {
-                            graphics.FillRectangle(semiTransparentBrush, rectangle);
+                            var newRect = rectangles[SelectedRectangle];
+                            newRect.X = e.X;
+                            newRect.Y = e.Y;
+                            rectangles[SelectedRectangle] = newRect;
+                            this.Refresh();//RefreshCanvas(graphics);
+                            Log.Debug("Selected Rectangle Index: " + SelectedRectangle);
+                            foreach (var rectangle in rectangles)
+                            {
+                                graphics.FillRectangle(semiTransparentBrush, rectangle);
+                            }
+                        }
+                        else
+                        {
+                            int deltaX = e.X - OriginX;
+                            int deltaY = e.Y - OriginY;
+                            int newX = imagePane.Location.X + deltaX;
+                            int newY = imagePane.Location.Y + deltaY;
+                            imagePane.Location = new Point(newX, newY);
                         }
                         break;
 
@@ -177,6 +239,8 @@ namespace WinHitBoxEditor
                             graphics.FillRectangle(semiTransparentBrush, rectangle);
                         }
                         break;
+                    case Item.Move:
+                        break;
                 }
 
                 graphics.Dispose();
@@ -203,6 +267,11 @@ namespace WinHitBoxEditor
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
             Log.CloseAndFlush();
+        }
+
+        private void imagePane_MouseHover(object sender, EventArgs e)
+        {
+            imagePane.Focus();
         }
     }
 }
